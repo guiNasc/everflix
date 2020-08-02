@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   VideoCardGroupContainer,
-  VideoCardList,
   Title,
   ExtraLink,
 } from './styles';
